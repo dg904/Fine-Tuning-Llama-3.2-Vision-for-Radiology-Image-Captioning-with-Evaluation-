@@ -1,0 +1,12 @@
+unsloth
+torch
+datasets
+transformers
+trl
+evaluate
+rouge_score
+nltk
+bert_score
+pandas
+matplotlib
+numpy
